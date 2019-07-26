@@ -1,0 +1,85 @@
+body {
+    background-color: rgba(255,255,0,0.5); 
+}
+
+#Header { 
+   text-align: center;  
+   font-size: 36px;  
+   font-family: Tangerine, serif; 
+   background-color: rgba(173,216,230,.5); 
+}  
+
+#About { 
+   margin-left: 50px; 
+   margin-right: 50px; 
+}
+#About h4 { 
+   font-size: 12px; 
+} 
+
+#Skills h4 { 
+   font-size: 12px; 
+
+}
+#Skills { 
+   margin-left: 50px; 
+   margin-right: 50px;  
+}  
+
+
+#All {
+   display: flex; 
+   float: left;
+} 
+
+#projects h4 { 
+   font-size: 12px;
+} 
+
+#More { 
+   display: flex; 
+   float: left; 
+}
+#me { 
+   margin-left: 50px; 
+   margin-right: 115px;   
+ 
+} 
+
+#projects { 
+   margin-left:50px; 
+   margin-right: 50px;  
+   margin-bottom: 200px; 
+}
+
+
+@media screen and (max-width: 600px) {
+   #More {
+   background-color: lightblue; 
+   flex-direction: column;  
+   align-items: center; 
+ }  
+}
+
+   @media screen and (max-width: 600px) {
+   #All {
+   background-color: lightblue; 
+   flex-direction: column;  
+   align-items: center; 
+ } 
+ footer { 
+     flex: 10 auto; 
+ }
+} 
+
+@media (max-width: 530px) { 
+   #chess {
+       width: 80%; 
+   } 
+    img { 
+       width: 80%; 
+       height: initial;   
+       margin-bottom: 20px; 
+   }
+}       
+
