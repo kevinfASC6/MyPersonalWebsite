@@ -5,7 +5,7 @@ body {
 #toolBar { 
    text-align: center; 
    font-size: 24px;  
-   background-color: rgba(200, 0, 200, 1); 
+   background-color: rgb(80, 8, 80); 
 } 
 
 
@@ -37,7 +37,8 @@ body {
 }
  
 #projects { 
-   text-align: center;
+   text-align: center; 
+   padding-bottom: 100px;
 }
 
 @media screen and (max-width: 600px) {
@@ -69,4 +70,5 @@ body {
        margin-bottom: 20px; 
    }
 }       
+
 
