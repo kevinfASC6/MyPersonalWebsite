@@ -1,35 +1,35 @@
 body {
-    background-color: rgba(27, 190, 219, 0.5); 
+   background-color: rgba(27, 190, 219, 0.5); 
 }
- 
+
 #toolBar { 
-   text-align: center; 
-   font-size: 24px;  
-   background-color: rgb(80, 8, 80);  
-   font-family: 'Yusei Magic', sans-serif;
+  text-align: center; 
+  font-size: 24px;  
+  background-color: rgb(80, 8, 80);  
+  font-family: 'Yusei Magic', sans-serif;
 } 
 
 
 
 #Header { 
-   text-align: center;  
-   font-size: 36px;  
-   font-family: Tangerine, serif; 
-   background-color: rgba(223, 30, 142, 0.5); 
+  text-align: center;  
+  font-size: 36px;  
+  font-family: Tangerine, serif; 
+  background-color: rgba(223, 30, 142, 0.5); 
 }  
 
 #All {
-    text-align: center; 
-    width:250px; 
-    font-family: 'BioRhyme', sans-serif;
+   text-align: center; 
+   width:250px; 
+   font-family: 'BioRhyme', sans-serif;
 } 
 
 #aboutMe { 
-   margin-left: auto; 
-   margin-right: auto; 
-   text-align: center;  
-   font-family: 'BioRhyme', sans-serif; 
-   width:250px; 
+  margin-left: auto; 
+  margin-right: auto; 
+  text-align: center;  
+  font-family: 'BioRhyme', sans-serif; 
+  width:250px; 
 }
 
 #Hobbies {
@@ -41,51 +41,79 @@ font-family: 'BioRhyme', sans-serif;
 }
 
 #Chess {
-   width: 300px;
-   float: right;
-   height: 500px;
-   background-color: rgba(8, 8, 231, 0.5);  
+  width: 300px;
+  float: right;
+  height: 500px;
+  background-color: rgba(8, 8, 231, 0.5);  
 } 
 
 img.chess1 { 
-   width: 190px; 
+  width: 190px; 
 }
 
 #cs {
-   width: 300px;
-   float: left;
-   height: 500px; 
-   background-color: rgba(219, 27, 53, 0.5); 
+  width: 300px;
+  float: left;
+  height: 500px; 
+  background-color: rgba(219, 27, 53, 0.5); 
 }  
 
 img.codeasc { 
-   width: 200px; 
+  width: 200px; 
 }
- 
+
 #Environ { 
-   width: 300px;
-   float: left;
-   height: 500px;
-   background-color: rgba(11, 226, 40, 0.5);
+  width: 300px;
+  float: left;
+  height: 500px;
+  background-color: rgba(11, 226, 40, 0.5);
 }
 
 img.environment { 
-   width: 200px; 
+  width: 200px; 
 }
 
 #clear {
-   clear: both;
+  clear: both;
 }
 
- 
+
 #projects { 
-   text-align: center; 
-   margin-left: auto; 
-   margin-right: auto;
-   padding-bottom: 150px; 
-   display: block; 
-   font-family: 'BioRhyme', sans-serif;
+  text-align: center; 
+  margin-left: auto; 
+  margin-right: auto;
+  width: 900px;  
+  font-family: 'BioRhyme', sans-serif;
 } 
+
+#demoday { 
+  width: 300px;
+  float: left;
+  height: 500px;
+  background-color: rgba(228, 231, 20, 0.5);
+} 
+
+#bolus { 
+  width: 300px;
+  float: left;
+  height: 500px;
+  background-color: rgba(209, 11, 235, 0.5);
+} 
+
+#Harvardforest { 
+  width: 300px;
+  float: left;
+  height: 500px;
+  background-color: rgba(235, 141, 19, 0.5);
+}
+
+img.web { 
+  width: 200px; 
+} 
+
+#clear1 { 
+  clear: both; 
+}
 
 
 @media screen and (max-width: 600px) {
