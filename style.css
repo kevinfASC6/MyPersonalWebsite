@@ -128,8 +128,16 @@ img.tree {
 
 #clear1 { 
   clear: both; 
+} 
+
+
+#awards { 
+   padding-bottom: 300px; 
 }
 
+img.plaque { 
+   width: 200px; 
+}
 
 @media screen and (max-width: 600px) {
    #More {
