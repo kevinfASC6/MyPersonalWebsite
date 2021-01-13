@@ -82,26 +82,26 @@ img.environment {
   text-align: center; 
   margin-left: auto; 
   margin-right: auto;
-  width: 900px;  
+  width: 1200px;  
   font-family: 'BioRhyme', sans-serif;
 } 
 
 #demoday { 
-  width: 300px;
+  width: 400px;
   float: left;
   height: 500px;
   background-color: rgba(228, 231, 20, 0.5);
 } 
 
 #bolus { 
-  width: 300px;
+  width: 400px;
   float: left;
   height: 500px;
   background-color: rgba(209, 11, 235, 0.5);
 } 
 
 #Harvardforest { 
-  width: 300px;
+  width: 400px;
   float: left;
   height: 500px;
   background-color: rgba(235, 141, 19, 0.5);
@@ -110,6 +110,16 @@ img.environment {
 img.web { 
   width: 200px; 
 } 
+
+img.bolusplastic { 
+   width: 175px;  
+   float: left; 
+}
+img.bolussquid { 
+   width: 175px;  
+   float: left; 
+   padding-left: 50px; 
+}
 
 #clear1 { 
   clear: both; 
