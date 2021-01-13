@@ -108,7 +108,7 @@ img.environment {
 }
 
 img.web { 
-  width: 200px; 
+  width: 300px; 
 } 
 
 img.bolusplastic { 
@@ -119,6 +119,11 @@ img.bolussquid {
    width: 175px;  
    float: left; 
    padding-left: 50px; 
+} 
+
+img.tree { 
+   width: 180px; 
+
 }
 
 #clear1 { 
