@@ -18,32 +18,53 @@ body {
    background-color: rgba(223, 30, 142, 0.5); 
 }  
 
-#All { 
-    text-align:center; 
-    margin-left: auto; 
-    margin-right: auto;
+#All {
+    text-align: center; 
     width:250px; 
     font-family: 'BioRhyme', sans-serif;
-}
-
-#chess { 
-   text-align: center;
 } 
 
-#more { 
-   text-align: center; 
+#aboutMe { 
+   margin-left: auto; 
+   margin-right: auto; 
+   text-align: center;  
+   font-family: 'BioRhyme', sans-serif; 
+   width:250px; 
+}
+
+#Skills {
+width: 800px;
+margin-left: auto;  
+margin-right: auto;  
+text-align: center;  
+font-family: 'BioRhyme', sans-serif;
+}
+
+#Chess {
+   width: 400px;
+   float: right;
+   height: 300px;
+       background-color: blue; 
+}
+#cs {
+   width: 400px;
+   float: left;
+   height: 300px;
+   background-color: green;
 } 
 
-#me { 
-   text-align:center;
+#clear {
+   clear: both;
 }
+
  
 #projects { 
    text-align: center; 
    margin-left: auto; 
    margin-right: auto;
    padding-bottom: 150px; 
-   display: block;
+   display: block; 
+   font-family: 'BioRhyme', sans-serif;
 } 
 
 
