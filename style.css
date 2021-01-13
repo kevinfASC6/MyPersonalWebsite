@@ -29,7 +29,8 @@ body {
   margin-right: auto; 
   text-align: center;  
   font-family: 'BioRhyme', sans-serif; 
-  width:250px; 
+  width:250px;  
+  padding-bottom: 50px;
 }
 
 #Hobbies {
@@ -37,7 +38,8 @@ width: 900px;
 margin-left: auto;  
 margin-right: auto;  
 text-align: center;  
-font-family: 'BioRhyme', sans-serif;
+font-family: 'BioRhyme', sans-serif; 
+padding-bottom: 50px;
 }
 
 #Chess {
@@ -83,7 +85,8 @@ img.environment {
   margin-left: auto; 
   margin-right: auto;
   width: 1200px;  
-  font-family: 'BioRhyme', sans-serif;
+  font-family: 'BioRhyme', sans-serif; 
+  padding-bottom: 50px;
 } 
 
 #demoday { 
@@ -130,13 +133,20 @@ img.tree {
   clear: both; 
 } 
 
-
 #awards { 
-   padding-bottom: 300px; 
+   padding-bottom: 50px;
 }
 
 img.plaque { 
    width: 200px; 
+} 
+
+#contact {
+  font-family: 'BioRhyme', sans-serif; 
+  text-align: center; 
+  margin-left: auto; 
+  margin-right: auto;
+   padding-bottom: 200px; 
 }
 
 @media screen and (max-width: 600px) {
