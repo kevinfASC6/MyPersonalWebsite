@@ -43,26 +43,34 @@ font-family: 'BioRhyme', sans-serif;
 #Chess {
    width: 300px;
    float: right;
-   height: 300px;
+   height: 500px;
    background-color: rgba(8, 8, 231, 0.5);  
 } 
+
+img.chess1 { 
+   width: 190px; 
+}
 
 #cs {
    width: 300px;
    float: left;
-   height: 300px; 
+   height: 500px; 
    background-color: rgba(219, 27, 53, 0.5); 
 }  
 
 img.codeasc { 
-   width: 100px; 
+   width: 200px; 
 }
  
 #Environ { 
    width: 300px;
    float: left;
-   height: 300px;
+   height: 500px;
    background-color: rgba(11, 226, 40, 0.5);
+}
+
+img.environment { 
+   width: 200px; 
 }
 
 #clear {
