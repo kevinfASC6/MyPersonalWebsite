@@ -22,7 +22,16 @@ img.cover {
   font-size: 36px;  
   font-family: Tangerine, serif; 
   background-color: rgba(223, 30, 142, 0.5); 
-}  
+}   
+
+#Header:hover span  { 
+  display: none;
+}
+
+#Header:hover:before {  
+  font-size: 36px;
+  content: "Welcome to my Website!!"
+}
 
 #All {
    text-align: center; 
