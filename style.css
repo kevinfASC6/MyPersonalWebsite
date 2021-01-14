@@ -111,18 +111,30 @@ img.environment {
   background-color: rgba(228, 231, 20, 0.5);
 } 
 
+#demoday:hover { 
+  background: rgba(45, 230, 8, 0.5)
+}
+
 #bolus { 
   width: 400px;
   float: left;
   height: 500px;
   background-color: rgba(209, 11, 235, 0.5);
-} 
+}  
+
+#bolus:hover { 
+  background: rgba(45, 230, 8, 0.5)
+}
 
 #Harvardforest { 
   width: 400px;
   float: left;
   height: 500px;
   background-color: rgba(235, 141, 19, 0.5);
+}
+
+#Harvardforest:hover { 
+  background: rgba(45, 230, 8, 0.5)
 }
 
 img.web { 
