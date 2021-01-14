@@ -13,6 +13,10 @@ img.cover {
   font-family: 'Yusei Magic', sans-serif;
 } 
 
+#toolBar :hover { 
+  background: black;
+}
+
 #Header { 
   text-align: center;  
   font-size: 36px;  
