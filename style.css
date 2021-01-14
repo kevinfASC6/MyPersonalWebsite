@@ -195,13 +195,44 @@ img.tree {
   clear: both; 
 } 
 
-#awards { 
-   padding-bottom: 50px;
+#awards {  
+  text-align: center; 
+  margin-left: auto; 
+  margin-right: auto;
+  width: 1200px;  
+  font-family: 'BioRhyme', sans-serif; 
 }
 
-img.plaque { 
+img.plaque {  
+  padding-top: 50px; 
    width: 200px; 
+}  
+
+img.plaque:hover { 
+  transform: scale(1.25); 
+}
+
+img.giphypic2 { 
+  width: 400px;
+  float: right;
+  height: 500px;
 } 
+
+#awards1 { 
+  width: 400px;
+  float: right;
+  height: 500px; 
+}  
+
+img.giphypic3 { 
+  width: 400px;
+  float: right;
+  height: 500px;
+} 
+
+#clear2 { 
+  clear: both;
+}
 
 #contact {
   font-family: 'BioRhyme', sans-serif; 
