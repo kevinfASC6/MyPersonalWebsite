@@ -25,13 +25,12 @@ img.cover {
 }   
 
 #Header:hover span  { 
-  display: none;
+  display: none; 
 }
 
-#Header:hover:before {  
-  font-size: 36px;
+#Header:hover:after {  
   content: "Welcome to my Website!!"
-}
+} 
 
 #All {
    text-align: center; 
