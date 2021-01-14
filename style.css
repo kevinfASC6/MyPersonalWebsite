@@ -21,7 +21,7 @@ img.cover {
   text-align: center;  
   font-size: 36px;  
   font-family: Tangerine, serif; 
-  background-color: rgba(223, 30, 142, 0.5); 
+  background-color: rgba(223, 30, 142, 0.5);  
 }   
 
 #Header:hover span  { 
@@ -35,17 +35,40 @@ img.cover {
 #All {
    text-align: center; 
    width:250px; 
-   font-family: 'BioRhyme', sans-serif;
 } 
 
-#aboutMe { 
-  margin-left: auto; 
-  margin-right: auto; 
+#aboutMe {  
   text-align: center;  
   font-family: 'BioRhyme', sans-serif; 
-  width:250px;  
-  padding-bottom: 50px;
+  width:1200px;  
+  padding-bottom: 50px; 
+  margin-left: auto;  
+  margin-right: auto;  
+} 
+
+img.giphypic1 { 
+  width: 400px;
+  float: left;
+  height: 500px;
+} 
+
+img.giphypic { 
+  width: 400px;
+  float: right;
+  height: 500px;
+} 
+
+
+#aboutmee { 
+  width: 400px;
+  float: right;
+  height: 500px;
 }
+
+#clear0 { 
+  clear: both;
+}
+
 
 #Hobbies {
 width: 900px;
@@ -58,7 +81,7 @@ padding-bottom: 50px;
 
 #Chess {
   width: 300px;
-  float: right;
+  float: left;
   height: 500px;
   background-color: rgba(8, 8, 231, 0.5);  
 }    
